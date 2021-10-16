@@ -1,6 +1,7 @@
 # Cite this Repository
 
-[![DOI](https://zenodo.org/badge/107398659.svg)](https://zenodo.org/badge/latestdoi/107398659)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3744132.svg)](https://doi.org/10.5281/zenodo.3744132)
+
 
 # Distributed Nonlinear Control Design using Separable Control Contraction Metrics
 
